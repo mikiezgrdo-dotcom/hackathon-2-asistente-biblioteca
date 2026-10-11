@@ -59,21 +59,9 @@ Antes de esa tanda se registraron dos fallos porque Ollama dejó de responder; a
 
 El notebook conserva las respuestas originales y la comprobación de la corrección. No se oculta el resultado incoherente inicial.
 
-## Herramientas y materiales del curso
+## Fuentes
 
-| Componente | Procedencia |
-| --- | --- |
-| WhatsApp Cloud API, FastAPI, requests y ngrok | Hands-On: webhook, envío y túnel |
-| Ollama, Llama 3.1 8B y Llama Stack | Hands-On: instalación, modelo y conversaciones |
-| Memoria, locks y deduplicación | Hands-On: estado y procesamiento |
-| SentenceTransformer y NumPy | Hands-On: embeddings y búsqueda en el reglamento |
-| Function calling | Hands-On: herramientas y devolución de resultados |
-| Llama Guard y Prompt Guard | Hands-On: seguridad de entrada y salida |
-| Reglas y métricas | Hands-On: saludo, escalamiento y monitoreo |
 
-La consulta de salas y el filtro por frases son adaptaciones propias de los patrones enseñados. La clase del 1 de octubre, 00:14–00:16, pide una herramienta adicional; 00:58–01:02 trata el acceso restringido a Prompt Guard y el uso de Llama Guard cuando no se puede cargar. `getpass` se incorpora por el requisito de privacidad de esta entrega y no se atribuye a la clase. Los ajustes de versiones y de recuperación de servicios son adaptaciones de compatibilidad.
-
-Fuentes originales:
 
 - [Actividad Hackathon 2 en Campus](https://edu.devf.la/es/campus/program/module/automatizacion-inteligente-con-whatsapp/agente-de-whatsapp/project/hackathon-2).
 - [Presentación oficial](https://docs.google.com/presentation/d/1mD0beOpNmwAu_uXlJokB9RtxNSYV1JwboePQiV0zQ7c/edit): documentación en Markdown, respuestas coherentes y demostración del agente.
